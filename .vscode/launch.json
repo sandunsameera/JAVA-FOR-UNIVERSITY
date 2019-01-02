@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - counter",
+            "request": "launch",
+            "mainClass": "counter"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - condition",
             "request": "launch",
             "mainClass": "condition"
