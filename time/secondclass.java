@@ -4,5 +4,7 @@ public class secondclass{
         firstclass firstclassObject = new firstclass();
 
         System.out.println(firstclassObject.toMilitary());
+        firstclassObject.setTime(3, 23, 45);
+        System.out.println(firstclassObject.toMilitary());
     }
 }
