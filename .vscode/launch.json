@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - a",
+            "request": "launch",
+            "mainClass": "a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - potpie",
             "request": "launch",
             "mainClass": "potpie"
