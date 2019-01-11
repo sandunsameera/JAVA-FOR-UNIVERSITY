@@ -10,4 +10,4 @@ public class ac{
         sandun.digest(vigiObject);
 
     }
-}
+} 
