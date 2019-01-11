@@ -1,3 +1,3 @@
-public class dog extends animal{
+public class fishi extends animal{
     
 }
